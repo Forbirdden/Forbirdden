@@ -1,4 +1,4 @@
-# Hi, I`m Fordbirdden
+# Hi, I`m Forbirdden
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Forbirdden/DiscordBotClient-OldWindows&type=Date)](https://star-history.com/#Forbirdden/DiscordBotClient-OldWindows&Date) 
 
