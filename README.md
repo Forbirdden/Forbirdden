@@ -4,7 +4,7 @@
 
 I like **Discord, Anime, Games** and [Lololoshka](https://www.youtube.com/@MrLololoshka)
 
-I live in **Russia, Bashkortostan**
+I live in **Russia**
 
 I play games like ***Minecraft***, **Genshin Impact** and **Honkai: Star Rail**
 
