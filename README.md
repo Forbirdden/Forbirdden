@@ -1,6 +1,3 @@
-<img src="https://github.com/user-attachments/assets/a0d9aeee-f9af-45c6-b9ed-7cee370144dd" width="256px" height="256px" alt="FnBird"> <img src="https://github.com/user-attachments/assets/a0d9aeee-f9af-45c6-b9ed-7cee370144dd" width="256px" height="256px" alt="FnBird2">
-
-  
 ## About me <a href="https://emoji.gg/emoji/2958-bluebird"><img src="https://cdn3.emoji.gg/emojis/2958-bluebird.png" width="32px" height="32px" alt="BlueBird"></a>
 
 - Enjoy **<a href="https://emoji.gg/emoji/4929-discord"><img src="https://cdn3.emoji.gg/emojis/4929-discord.png" width="16px" height="16px" alt="Discord"></a> Discord, <a href="https://emoji.gg/emoji/53108-retrotv"><img src="https://cdn3.emoji.gg/emojis/53108-retrotv.gif" width="16px" height="16px" alt="RetroTV"></a> Anime, <a href="https://emoji.gg/emoji/5496-gamepad"><img src="https://cdn3.emoji.gg/emojis/5496-gamepad.png" width="16px" height="16px" alt="gamepad"></a> Games** and <a href="https://emoji.gg/emoji/75242-cyan-crown"><img src="https://cdn3.emoji.gg/emojis/75242-cyan-crown.png" width="16px" height="16px" alt="Cyan_crown"></a> [Lololoshka](https://www.youtube.com/@MrLololoshka)
