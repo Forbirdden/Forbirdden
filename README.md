@@ -1,6 +1,6 @@
 # Hi, I`m Forbirdden
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden)](https://github.com/anuraghazra/github-readme-stats)
 
 I like **Discord, Anime, Games** and [Lololoshka](https://www.youtube.com/@MrLololoshka)
 
