@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/c821a71b-035c-4e82-bca2-ea6905c6702d" width="700px" height="256px" alt="FnBird2"> <img src="https://github.com/user-attachments/assets/a0d9aeee-f9af-45c6-b9ed-7cee370144dd" width="256px" height="256px" alt="FnBird">
+<img src="https://github.com/user-attachments/assets/a0d9aeee-f9af-45c6-b9ed-7cee370144dd" width="256px" height="256px" alt="FnBird"> <img src="https://github.com/user-attachments/assets/a0d9aeee-f9af-45c6-b9ed-7cee370144dd" width="256px" height="256px" alt="FnBird2">
 
   
 ## About me <a href="https://emoji.gg/emoji/2958-bluebird"><img src="https://cdn3.emoji.gg/emojis/2958-bluebird.png" width="32px" height="32px" alt="BlueBird"></a>
