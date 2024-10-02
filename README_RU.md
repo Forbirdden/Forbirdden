@@ -9,6 +9,8 @@
 
 - У меня **свой приватный** ***МАЙНКРАФТ*** **сервер**
 
+Хотите знать больше? https://t.ly/4uvxa
+
 ## Статистика <a href="https://emoji.gg/emoji/9656-stats"><img src="https://cdn3.emoji.gg/emojis/9656-stats.png" width="32px" height="32px" alt="Stats"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden&show_icons=true&theme=tokyonight&locale=ru)
