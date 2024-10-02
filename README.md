@@ -9,6 +9,8 @@
 
 - I have **my own private** ***Minecarft*** **server**
 
+Wanna know more? Go to https://t.ly/4uvxa
+
 ## My Stats <a href="https://emoji.gg/emoji/9656-stats"><img src="https://cdn3.emoji.gg/emojis/9656-stats.png" width="32px" height="32px" alt="Stats"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden&show_icons=true&theme=tokyonight)
