@@ -17,4 +17,4 @@ Wanna know more? Go to https://t.ly/4uvxa
 
 ## Star History <a href="https://emoji.gg/emoji/93619-jumpingstar"><img src="https://cdn3.emoji.gg/emojis/93619-jumpingstar.gif" width="32px" height="32px" alt="JumpingStar"></a>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Forbirdden/DiscordBotClient-OldWindows&type=Date)](https://star-history.com/#Forbirdden/DiscordBotClient-OldWindows&Date) 
+[![Star History Chart](https://api.star-history.com/svg?repos=Forbirdden/SimpleCalculator,Forbirdden/DiscordBotClient-OldWindows&type=Date)](https://star-history.com/#Forbirdden/SimpleCalculator&Forbirdden/DiscordBotClient-OldWindows&Date)
