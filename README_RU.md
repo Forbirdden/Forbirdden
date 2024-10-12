@@ -7,7 +7,7 @@
 
 - Играю в (и не только): <a href="https://emoji.gg/emoji/1491-minecraft"><img src="https://cdn3.emoji.gg/emojis/1491-minecraft.png" width="16px" height="16px" alt="Minecraft"></a> ***Minecraft***, <a href="https://emoji.gg/emoji/95719-paimonnomming"><img src="https://cdn3.emoji.gg/emojis/95719-paimonnomming.gif" width="16px" height="16px" alt="PaimonNomming"></a> **Genshin Impact** и <a href="https://emoji.gg/emoji/7126-march7th-scream"><img src="https://cdn3.emoji.gg/emojis/7126-march7th-scream.png" width="16px" height="16px" alt="March7th_scream"></a> **Honkai: Star Rail**
 
-- У меня **свой приватный** ***МАЙНКРАФТ*** **сервер**
+- У меня есть **свой приватный** ***МАЙНКРАФТ*** **сервер**
 
 Хотите знать больше? https://t.ly/4uvxa
 
