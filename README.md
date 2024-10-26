@@ -5,11 +5,11 @@
 
 - Live in <a href="https://emoji.gg/emoji/8961-ru"><img src="https://cdn3.emoji.gg/emojis/8961-ru.png" width="16px" height="16px" alt="ru"></a> **Russia**
 
-- Play games like <a href="https://emoji.gg/emoji/1491-minecraft"><img src="https://cdn3.emoji.gg/emojis/1491-minecraft.png" width="16px" height="16px" alt="Minecraft"></a> ***Minecraft***, <a href="https://emoji.gg/emoji/95719-paimonnomming"><img src="https://cdn3.emoji.gg/emojis/95719-paimonnomming.gif" width="16px" height="16px" alt="PaimonNomming"></a> **Genshin Impact** and <a href="https://emoji.gg/emoji/7126-march7th-scream"><img src="https://cdn3.emoji.gg/emojis/7126-march7th-scream.png" width="16px" height="16px" alt="March7th_scream"></a> **Honkai: Star Rail**
+- Playing games like <a href="https://emoji.gg/emoji/1491-minecraft"><img src="https://cdn3.emoji.gg/emojis/1491-minecraft.png" width="16px" height="16px" alt="Minecraft"></a> ***Minecraft***, <a href="https://emoji.gg/emoji/95719-paimonnomming"><img src="https://cdn3.emoji.gg/emojis/95719-paimonnomming.gif" width="16px" height="16px" alt="PaimonNomming"></a> **Genshin Impact** and <a href="https://emoji.gg/emoji/7126-march7th-scream"><img src="https://cdn3.emoji.gg/emojis/7126-march7th-scream.png" width="16px" height="16px" alt="March7th_scream"></a> **Honkai: Star Rail**
 
 - I have **my own private** ***Minecarft*** **server**
 
-Wanna know more? Go to https://t.ly/4uvxa
+Wanna know more? Visit https://t.ly/4uvxa
 
 ## My Stats <a href="https://emoji.gg/emoji/9656-stats"><img src="https://cdn3.emoji.gg/emojis/9656-stats.png" width="32px" height="32px" alt="Stats"></a>
 
