@@ -11,6 +11,8 @@
 
 Wanna know more? Visit https://t.ly/4uvxa
 
+### <a href="https://emoji.gg/emoji/51662-matrix"><img src="https://cdn3.emoji.gg/emojis/51662-matrix.gif" width="16px" height="16px" alt="Matrix"></a> Matrix: @forbirdden:matrix.org
+
 ## My Stats <a href="https://emoji.gg/emoji/9656-stats"><img src="https://cdn3.emoji.gg/emojis/9656-stats.png" width="32px" height="32px" alt="Stats"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden&show_icons=true&theme=tokyonight)
