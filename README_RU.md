@@ -9,7 +9,7 @@
 
 - У меня есть **свой приватный** ***МАЙНКРАФТ*** **сервер**
 
-Хотите узнать обо мне больше? https://t.ly/4uvxa
+Хотите узнать обо мне больше? [https://forbirdden.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### <a href="https://emoji.gg/emoji/51662-matrix"><img src="https://cdn3.emoji.gg/emojis/51662-matrix.gif" width="16px" height="16px" alt="Matrix"></a> Matrix: @forbirdden:matrix.org
 
@@ -19,4 +19,4 @@
 
 ## Мои звёзды <a href="https://emoji.gg/emoji/93619-jumpingstar"><img src="https://cdn3.emoji.gg/emojis/93619-jumpingstar.gif" width="32px" height="32px" alt="JumpingStar"></a>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Forbirdden/SimpleCalculator,Forbirdden/DiscordBotClient-OldWindows&type=Date)](https://star-history.com/#Forbirdden/SimpleCalculator&Forbirdden/DiscordBotClient-OldWindows&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Forbirdden/ShineOS&type=Date)](https://www.star-history.com/#Forbirdden/ShineOS&Date)
