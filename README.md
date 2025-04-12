@@ -19,4 +19,4 @@ Wanna know more? Visit [https://forbirdden.com](https://www.youtube.com/watch?v=
 
 ## Star History <a href="https://emoji.gg/emoji/93619-jumpingstar"><img src="https://cdn3.emoji.gg/emojis/93619-jumpingstar.gif" width="32px" height="32px" alt="JumpingStar"></a>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Forbirdden/ShineOS&type=Date)](https://www.star-history.com/#Forbirdden/ShineOS&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Forbirdden/ShineOS,Forbirdden/RAC-Hub,Forbirdden/beery&type=Date)](https://www.star-history.com/#Forbirdden/ShineOS&Forbirdden/RAC-Hub&Forbirdden/beery&Date)
