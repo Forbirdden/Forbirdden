@@ -15,7 +15,7 @@
 
 ## Статистика <a href="https://emoji.gg/emoji/9656-stats"><img src="https://cdn3.emoji.gg/emojis/9656-stats.png" width="32px" height="32px" alt="Stats"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden&show_icons=true&theme=tokyonight&locale=ru)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden&show_icons=true&theme=tokyonight&locale=ru) ![Forbirdden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Forbirdden&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=ru)
 
 ## Мои звёзды <a href="https://emoji.gg/emoji/93619-jumpingstar"><img src="https://cdn3.emoji.gg/emojis/93619-jumpingstar.gif" width="32px" height="32px" alt="JumpingStar"></a>
 
