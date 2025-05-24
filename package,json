@@ -1,0 +1,7 @@
+{
+    "name": "webwm",
+    "version": "1.0",
+    "apps": ["webwm.js"],
+    "configs": [],
+    "url": "app/webwm"
+}
