@@ -1,4 +1,5 @@
 [Русский язык](https://github.com/Forbirdden/Forbirdden/blob/main/README_RU.md)
+
 ## Currently I'm using
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,python)](https://skillicons.dev) 
 ### and
@@ -14,4 +15,4 @@
 ## My OSes
 [![My Skills](https://skillicons.dev/icons?i=windows,mint)](https://skillicons.dev)
 ## My Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden&show_icons=true&theme=tokyonight) ![Forbirdden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Forbirdden&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden&show_icons=true&theme=transparent)
