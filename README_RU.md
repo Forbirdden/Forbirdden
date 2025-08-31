@@ -14,4 +14,4 @@
 ## Мои ОС
 [![My Skills](https://skillicons.dev/icons?i=windows,mint)](https://skillicons.dev)
 ## Статистика
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden&show_icons=true&theme=tokyonight&locale=ru) ![Forbirdden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Forbirdden&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=ru)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forbirdden&show_icons=true&theme=transparent&locale=ru)
