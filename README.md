@@ -1,6 +1,6 @@
 # About me
 ## Stats
-![Stats](./profile/stats.svg) ![Stats](./profile/top-langs.svg)
+![Stats](./profile/stats.svg)
 ## Skills
 <img src="https://iconic-api.onrender.com/dark/html" width="64px" /> <img src="https://iconic-api.onrender.com/dark/css" width="64px" /> <img src="https://iconic-api.onrender.com/dark/js" width="64px" /> <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
 ### Learning
